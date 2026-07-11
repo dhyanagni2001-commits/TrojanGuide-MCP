@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Leavey Library",
+    "category": "library",
+    "address": "651 W. 35th St, Los Angeles, CA 90089",
+    "hours": "24 hours Mon-Thu (Fall/Spring); shorter hours Fri-Sun, check libraries.usc.edu/hours",
+    "tags": ["printing", "study rooms", "computers", "laptop checkout", "24 hour", "group study", "quiet"]
+  },
+  {
+    "name": "Doheny Memorial Library",
+    "category": "library",
+    "address": "3550 Trousdale Pkwy, Los Angeles, CA 90089-0185",
+    "hours": "9am-5pm typical weekday; extended hours during finals, check libraries.usc.edu/hours",
+    "tags": ["quiet study", "reading room", "historic", "cinematic arts library", "east asian library", "music library"]
+  },
+  {
+    "name": "Science and Engineering Library",
+    "category": "library",
+    "address": "3502 Watt Way, Los Angeles, CA 90089",
+    "hours": "9am-8pm weekdays typical; check libraries.usc.edu/hours",
+    "tags": ["engineering", "study rooms", "quiet", "near viterbi", "printing"]
+  },
+  {
+    "name": "Norris Medical Library",
+    "category": "library",
+    "address": "2003 Zonal Ave, Los Angeles, CA 90033",
+    "hours": "8am-7pm typical weekday; check libraries.usc.edu/hours",
+    "tags": ["medical", "health sciences campus", "quiet study"]
+  },
+  {
+    "name": "Gaughan and Tiberti Business Library",
+    "category": "library",
+    "address": "Bridge Memorial Hall, Los Angeles, CA 90089",
+    "hours": "9am-5pm typical weekday; check libraries.usc.edu/hours",
+    "tags": ["business", "marshall school", "quiet study"]
+  },
+  {
+    "name": "Hoose Library of Philosophy",
+    "category": "library",
+    "address": "Mudd Hall, Los Angeles, CA 90089",
+    "hours": "9am-5pm typical weekday; check libraries.usc.edu/hours",
+    "tags": ["philosophy", "quiet study", "small library"]
+  },
+  {
+    "name": "Viterbi School of Engineering",
+    "category": "academic_building",
+    "address": "3650 McClintock Ave, Los Angeles, CA 90089",
+    "hours": "Building access varies; classrooms typically 7am-10pm",
+    "tags": ["engineering", "computer science", "advising office", "classrooms"]
+  },
+  {
+    "name": "Ronald Tutor Hall",
+    "category": "academic_building",
+    "address": "3710 McClintock Ave, Los Angeles, CA 90089",
+    "hours": "Building access varies; classrooms typically 7am-10pm",
+    "tags": ["engineering", "computer science", "printing", "classrooms", "lecture halls"]
+  },
+  {
+    "name": "Bridge Memorial Hall (Marshall School of Business)",
+    "category": "academic_building",
+    "address": "701 Exposition Blvd, Los Angeles, CA 90089",
+    "hours": "Building access varies; classrooms typically 7am-10pm",
+    "tags": ["business", "marshall", "classrooms", "study lounge"]
+  },
+  {
+    "name": "Annenberg School for Communication and Journalism",
+    "category": "academic_building",
+    "address": "3502 Watt Way, Los Angeles, CA 90089",
+    "hours": "Building access varies; classrooms typically 7am-10pm",
+    "tags": ["journalism", "communication", "classrooms", "media center"]
+  },
+  {
+    "name": "Mudd Hall of Philosophy",
+    "category": "academic_building",
+    "address": "3701 Trousdale Pkwy, Los Angeles, CA 90089",
+    "hours": "Building access varies; classrooms typically 7am-10pm",
+    "tags": ["philosophy", "humanities", "classrooms"]
+  },
+  {
+    "name": "Grand Avenue Library",
+    "category": "library",
+    "address": "827 W. 34th St, Los Angeles, CA 90089",
+    "hours": "9am-5pm typical weekday; check libraries.usc.edu/hours",
+    "tags": ["quiet study", "small library"]
+  },
+  {
+    "name": "Trojan Grounds featuring illy",
+    "category": "dining",
+    "address": "Birnkrant Residential College (BSR), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["coffee", "illy", "quick bites", "espresso"]
+  },
+  {
+    "name": "Amy King Dundon-Berchtold University Club",
+    "category": "dining",
+    "address": "University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["faculty club", "sit down", "private events", "fine dining"]
+  },
+  {
+    "name": "Bowls",
+    "category": "dining",
+    "address": "Ronald Tutor Campus Center (RTCC), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["healthy", "grain bowls", "quick bites", "vegetarian options"]
+  },
+  {
+    "name": "Burger Crush",
+    "category": "dining",
+    "address": "Ronald Tutor Campus Center (RTCC), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["burgers", "american", "quick bites"]
+  },
+  {
+    "name": "C&G Juice Co.",
+    "category": "dining",
+    "address": "Ronald Tutor Campus Center (RTCC), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["juice", "smoothies", "acai", "quick bites", "healthy"]
+  },
+  {
+    "name": "Cafe Annenberg",
+    "category": "dining",
+    "address": "Wallis Annenberg Hall (ANN), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["coffee", "quick bites", "near annenberg", "study spot"]
+  },
+  {
+    "name": "Chado Tea Family Cafe",
+    "category": "dining",
+    "address": "Fertitta Hall (JFF), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["coffee", "tea", "quick bites", "near marshall"]
+  },
+  {
+    "name": "Coffee Bean & Tea Leaf (Cinematic Arts)",
+    "category": "dining",
+    "address": "School of Cinematic Arts (SCA), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["coffee", "tea", "quick bites"]
+  },
+  {
+    "name": "Everybody's Kitchen",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90089",
+    "hours": "7am-9pm typical; check hospitality.usc.edu/hours-of-operation",
+    "tags": ["dining hall", "buffet", "vegetarian", "vegan options", "all you care to eat"]
+  },
+  {
+    "name": "Law School Cafe",
+    "category": "dining",
+    "address": "Gould School of Law, University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["coffee", "quick bites", "sandwiches", "near law school"]
+  },
+  {
+    "name": "Literatea",
+    "category": "dining",
+    "address": "Doheny Memorial Library (DML), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["tea", "coffee", "quick bites", "study spot", "near library"]
+  },
+  {
+    "name": "McKay's",
+    "category": "dining",
+    "address": "USC Hotel, University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["sit down", "american", "bar", "usc hotel"]
+  },
+  {
+    "name": "MoretonFig",
+    "category": "dining",
+    "address": "University Park Campus",
+    "hours": "Special & private events venue; check hospitality.usc.edu",
+    "tags": ["fine dining", "private events", "brunch", "sit down"]
+  },
+  {
+    "name": "Panda Express",
+    "category": "dining",
+    "address": "Tutor Campus Center (TCC), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["chinese food", "quick bites", "fast food"]
+  },
+  {
+    "name": "Parkside Residential Dining Hall",
+    "category": "dining",
+    "address": "Parkside, University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["dining hall", "all you care to eat", "vegetarian", "vegan options", "late night breakfast"]
+  },
+  {
+    "name": "Popovich Cafe",
+    "category": "dining",
+    "address": "John Kaptor Pavilion (JKP), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["coffee", "quick bites"]
+  },
+  {
+    "name": "Rosso Oro's",
+    "category": "dining",
+    "address": "University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["italian", "pizza", "sit down"]
+  },
+  {
+    "name": "Seeds Marketplace",
+    "category": "dining",
+    "address": "Tutor Campus Center (TCC), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["grab and go", "salads", "healthy", "vegetarian", "quick bites"]
+  },
+  {
+    "name": "Slice Shop",
+    "category": "dining",
+    "address": "Tutor Campus Center (TCC), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["pizza", "quick bites", "late night"]
+  },
+  {
+    "name": "Taco-Taco",
+    "category": "dining",
+    "address": "Tutor Campus Center (TCC), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["mexican", "tacos", "quick bites"]
+  },
+  {
+    "name": "The Lab",
+    "category": "dining",
+    "address": "University Gardens, University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["american", "burgers", "sit down", "bar", "vegetarian options"]
+  },
+  {
+    "name": "The Upstairs",
+    "category": "dining",
+    "address": "Ronald Tutor Campus Center (RTCC), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["bar", "sit down", "late night", "events"]
+  },
+  {
+    "name": "Tutor Hall Cafe",
+    "category": "dining",
+    "address": "Ronald Tutor Hall (RTH), University Park Campus",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["coffee", "quick bites", "near viterbi", "near engineering"]
+  },
+  {
+    "name": "USC Village Dining Hall",
+    "category": "dining",
+    "address": "3096 S. McClintock Ave, Los Angeles, CA 90007",
+    "hours": "Check hospitality.usc.edu/hours-of-operation",
+    "tags": ["dining hall", "all you care to eat", "vegan station", "salad bar", "ramen", "vegetarian"]
+  },
+  {
+    "name": "Trader Joe's (USC Village)",
+    "category": "dining",
+    "address": "USC Village, Jefferson Blvd & Hoover St, Los Angeles, CA 90007",
+    "hours": "8am-9pm typical, hours vary",
+    "tags": ["grocery", "groceries", "village"]
+  },
+  {
+    "name": "Cafe Dulce",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "7am-9pm typical, hours vary",
+    "tags": ["coffee", "bakery", "boba", "pastries", "village", "study spot"]
+  },
+  {
+    "name": "Softies",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "11am-9pm typical, hours vary",
+    "tags": ["burgers", "smash burgers", "fried chicken", "village", "quick bites"]
+  },
+  {
+    "name": "CAVA",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "10:30am-9pm typical, hours vary",
+    "tags": ["mediterranean", "healthy", "vegetarian", "vegan options", "village", "bowls"]
+  },
+  {
+    "name": "sweetgreen",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "10:30am-9pm typical, hours vary",
+    "tags": ["salads", "healthy", "vegetarian", "vegan options", "village", "bowls"]
+  },
+  {
+    "name": "Trejo's Tacos",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "11am-9pm typical, hours vary",
+    "tags": ["mexican", "tacos", "village", "quick bites"]
+  },
+  {
+    "name": "Rance's Chicago Pizza",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "11am-10pm typical, hours vary",
+    "tags": ["pizza", "chicago style", "village", "sit down"]
+  },
+  {
+    "name": "Il Giardino",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "11am-9pm typical, hours vary",
+    "tags": ["italian", "pasta", "sandwiches", "village", "sit down"]
+  },
+  {
+    "name": "Rock & Reilly's",
+    "category": "dining",
+    "address": "Corner of Jefferson Blvd & Hoover St, USC Village, Los Angeles, CA 90007",
+    "hours": "11am-close typical, hours vary",
+    "tags": ["bar", "pub food", "fried food", "village", "sit down"]
+  },
+  {
+    "name": "Greenleaf Gourmet Chopshop",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "10am-9pm typical, hours vary",
+    "tags": ["salads", "healthy", "vegetarian", "vegan options", "village", "quick bites"]
+  },
+  {
+    "name": "SunLife Organics",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "8am-9pm typical, hours vary",
+    "tags": ["smoothies", "juice", "acai", "healthy", "village", "quick bites"]
+  },
+  {
+    "name": "Yoboseyo! Superette",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "11am-9pm typical, hours vary",
+    "tags": ["boba", "asian snacks", "village", "quick bites"]
+  },
+  {
+    "name": "Jimmy John's",
+    "category": "dining",
+    "address": "USC Village, Los Angeles, CA 90007",
+    "hours": "10am-9pm typical, hours vary",
+    "tags": ["sandwiches", "quick bites", "delivery", "village"]
+  },
+  {
+    "name": "Career Center (Career Services)",
+    "category": "student_service",
+    "address": "Ronald Tutor Campus Center, Suite 227, Los Angeles, CA 90089",
+    "hours": "8:30am-5pm weekdays",
+    "tags": ["career services", "resume review", "job search", "internships", "advising"]
+  },
+  {
+    "name": "Financial Aid Office",
+    "category": "student_service",
+    "address": "John Hubbard Hall (JHH), Los Angeles, CA 90089",
+    "hours": "8:30am-5pm weekdays",
+    "tags": ["financial aid", "fafsa", "scholarships", "billing"]
+  },
+  {
+    "name": "USCard Office",
+    "category": "student_service",
+    "address": "Student Union, Room 300, Los Angeles, CA 90089",
+    "hours": "8:30am-5pm weekdays",
+    "tags": ["usc id", "student id", "id replacement", "student union"]
+  },
+  {
+    "name": "Engemann Student Health Center",
+    "category": "student_service",
+    "address": "1031 W. 34th St, Los Angeles, CA 90089",
+    "hours": "8:30am-5pm weekdays; urgent care extended hours",
+    "tags": ["health center", "medical", "urgent care", "counseling", "mental health"]
+  },
+  {
+    "name": "Student Counseling Services",
+    "category": "student_service",
+    "address": "Engemann Student Health Center, 3rd Floor, Los Angeles, CA 90089",
+    "hours": "8:30am-5pm weekdays; 24/7 crisis line available",
+    "tags": ["mental health", "counseling", "therapy", "wellness", "crisis support"]
+  },
+  {
+    "name": "Office of International Services (OIS)",
+    "category": "student_service",
+    "address": "3601 Trousdale Pkwy, GFS 200, Los Angeles, CA 90089",
+    "hours": "8:30am-5pm weekdays",
+    "tags": ["international students", "visa", "opt", "cpt", "immigration advising"]
+  },
+  {
+    "name": "Viterbi Graduate Advisement Office",
+    "category": "student_service",
+    "address": "Ronald Tutor Hall (RTH), Los Angeles, CA 90089",
+    "hours": "8:30am-5pm weekdays",
+    "tags": ["graduate advising", "viterbi", "engineering", "course planning"]
+  },
+  {
+    "name": "Registrar's Office",
+    "category": "student_service",
+    "address": "John Hubbard Hall (JHH), Los Angeles, CA 90089",
+    "hours": "8:30am-5pm weekdays",
+    "tags": ["registration", "transcripts", "enrollment", "records"]
+  },
+  {
+    "name": "USC Bookstore",
+    "category": "student_service",
+    "address": "University Village, Los Angeles, CA 90089",
+    "hours": "9am-7pm typical, hours vary by semester",
+    "tags": ["textbooks", "supplies", "usc merchandise", "printing supplies"]
+  },
+  {
+    "name": "Parking Services",
+    "category": "student_service",
+    "address": "McCarthy Way Structure, Los Angeles, CA 90089",
+    "hours": "8am-5pm weekdays",
+    "tags": ["parking", "permits", "transportation"]
+  },
+  {
+    "name": "Tutor Campus Center (TCC)",
+    "category": "academic_building",
+    "address": "3607 Trousdale Pkwy, Los Angeles, CA 90089",
+    "hours": "6am-2am typical, hours vary",
+    "tags": ["student union", "dining", "study space", "meeting rooms", "late night"]
+  },
+  {
+    "name": "USC Village",
+    "category": "academic_building",
+    "address": "Jefferson Blvd & McClintock Ave, Los Angeles, CA 90089",
+    "hours": "Varies by venue",
+    "tags": ["dining", "retail", "housing", "target", "trader joes", "study space"]
+  },
+  {
+    "name": "Ahmanson Information Commons (Leavey Lower Level)",
+    "category": "library",
+    "address": "651 W. 35th St, Los Angeles, CA 90089 (Leavey Library Lower Level)",
+    "hours": "24 hours during Fall/Spring semesters typical",
+    "tags": ["printing", "laptop checkout", "computers", "24 hour", "its support"]
+  },
+  {
+    "name": "PACE Career Fair Venue (Alumni Park)",
+    "category": "student_service",
+    "address": "Alumni Park, University Park Campus",
+    "hours": "Event-based, check calendar",
+    "tags": ["career fair", "recruiting", "job search", "networking"]
+  },
+  {
+    "name": "Wilson Dental Library",
+    "category": "library",
+    "address": "925 W. 34th St, Los Angeles, CA 90089",
+    "hours": "9am-5pm typical weekday; check libraries.usc.edu/hours",
+    "tags": ["dental", "health sciences", "quiet study"]
+  },
+  {
+    "name": "Gwynn Wilson Student Union",
+    "category": "academic_building",
+    "address": "665 Exposition Blvd, Los Angeles, CA 90089",
+    "hours": "8am-8pm typical, hours vary",
+    "tags": ["student union", "usc card office", "student orgs", "event space"]
+  },
+  {
+    "name": "Fertitta Hall",
+    "category": "academic_building",
+    "address": "701 Exposition Blvd, Los Angeles, CA 90089",
+    "hours": "Building access varies; classrooms typically 7am-10pm",
+    "tags": ["marshall", "business", "classrooms", "coffee shop"]
+  },
+  {
+    "name": "USC Recreation Sports Center (Lyon Center)",
+    "category": "student_service",
+    "address": "1025 W. 34th St, Los Angeles, CA 90089",
+    "hours": "6am-11pm typical, hours vary",
+    "tags": ["gym", "fitness", "recreation", "pool", "climbing wall"]
+  }
+]
