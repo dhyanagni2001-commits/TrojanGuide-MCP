@@ -10,7 +10,7 @@ A [Model Context Protocol](https://modelcontextprotocol.io) server that gives an
 | `find_library` | `tools/library.py` | List libraries, optionally filtered by feature (e.g. "printing", "24 hour") |
 | `find_food` | `tools/food.py` | Search dining venues by cuisine/craving/keyword |
 | `find_student_service` | `tools/services.py` | Look up support offices (Career Center, Financial Aid, Health Center, etc.) |
-| `search_campus` | `tools/search.py` | General keyword search across every category at once |
+| `search_campus` | `tools/search.py` | General keyword search across every category at once | 
 
 All tools read from a single in-memory dataset (`data/campus.json`, 67 entries) loaded once by `utils/data_loader.py`.
 
